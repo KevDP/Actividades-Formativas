@@ -1,10 +1,3 @@
-/*
- *  Kevin Joan Delgado Pérez
- *  A01706328
- *  Created on: 14/10/2020
- * 
- */
-
 #ifndef BST_H_
 #define BST_H_
 
